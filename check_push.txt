@@ -1,1 +1,3 @@
-checking push command
+checking push command.
+my first code file.
+learning devops.
